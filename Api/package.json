@@ -1,0 +1,15 @@
+{
+  "name": "@Api-Project",
+  "version": "1",
+  "description": "An work-in-progress API build.",
+  "license": "ISC",
+
+  "keywords": [],
+  "author": "ChineseLabor",
+  "main": "Stick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install express",
+    "burst": "node Stick.js"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "@Project",
+    "version": "1",
+    "description": "An work-in-progress thread build.",
+    "license": "ISC",
+
+    "keywords": ["Api"],
+    "author": "ChineseLabor",
+    "main": "Directory/Lighter.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "ignite": "node Directory/Lighter.js"
+    }
+}
