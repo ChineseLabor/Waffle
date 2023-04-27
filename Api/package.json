@@ -9,7 +9,6 @@
   "main": "Stick.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install express",
     "burst": "node Stick.js"
   }
 }
