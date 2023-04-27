@@ -1,5 +1,6 @@
 {
   "name": "@Directory-Project",
   "version": "1",
-  "description": "This is the main directory."
+  "description": "This is the main directory.",
+  "license": "ISC"
 }
