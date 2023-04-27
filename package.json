@@ -9,6 +9,7 @@
     "main": "Directory/Lighter.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "cd Api && npm install express"
         "ignite": "node Directory/Lighter.js"
     }
 }
