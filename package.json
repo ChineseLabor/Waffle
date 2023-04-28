@@ -4,7 +4,7 @@
     "description": "An work-in-progress thread build.",
     "license": "ISC",
 
-    "keywords": ["Api"],
+    "keywords": ["Api", "Modules"],
     "author": "ChineseLabor",
     "main": "Directory/Lighter.js",
     "scripts": {
