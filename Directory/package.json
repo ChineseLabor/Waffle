@@ -2,5 +2,12 @@
   "name": "@Directory-Project",
   "version": "1",
   "description": "This is the main directory.",
-  "license": "ISC"
+  "license": "ISC",
+  
+  "keywords": ["Modules"],
+  "author": "ChineseLabor",
+  "main": "MakeTheFilePlease",
+  "scripts": {
+  
+  }
 }
