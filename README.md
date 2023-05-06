@@ -2,4 +2,4 @@
 This is a work-in-progress project. There is currently no other information
 
 ## Questions
-$`yea yea yea`
+$`console.log("How's your day today?")`
