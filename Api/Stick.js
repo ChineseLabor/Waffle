@@ -1,6 +1,6 @@
 const Express = require("express");
 const Application = Express();
-const Port = process.env.PORT || 4000;
+const Port = 8080;
 
 Application.post("/api", ( RequestHandler, Response ) => {
     console.warn("Caught, " + Response);
